@@ -1,0 +1,1 @@
+print("sum of two number:",int(input("enter first number:"))+int(input("enter second number:")))
